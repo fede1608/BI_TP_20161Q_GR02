@@ -4,8 +4,20 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <UserIDs />
-        <UserPasswords />
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Clima</Id>
+            <Name>Clima</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQSnkg5agn027EV9e00wLwgAAAAAMAAAAQwBsAGkAbQBhAAAAA2YAAKgAAAAQAAAAlrjY38qeDfu+uLMgkD9DzwAAAAAEgAAAoAAAABAAAAAOmUWG4w6wi4qKnZTGnrxPEAAAAEgz6AakXtbZuk/aY7KTXWEUAAAAgQ/r2tcUY1R54I6I2UPqRpsoXvk=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Clima</Id>
+            <Name>Clima</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQSnkg5agn027EV9e00wLwgAAAAAMAAAAQwBsAGkAbQBhAAAAA2YAAKgAAAAQAAAAQKpcFX/5PuJLwoWDkgc8IwAAAAAEgAAAoAAAABAAAABehgfZd3iqPYV6epf0E7nBGAAAAKgQjc9XM/64/kIRFH1KjN/RP+XjxJX6SRQAAADgnlZ3l58kXMaZXY3DUBn2iJBfTQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
         <OfflineMode>false</OfflineMode>
         <ProgressReporting>true</ProgressReporting>
       </Options>
