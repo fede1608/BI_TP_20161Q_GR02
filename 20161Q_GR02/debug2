@@ -1,0 +1,104 @@
+,
+,
+,
+,
+,
+,Procedimiento policial
+,Responsabilidad empresa Alstom
+,Intento de suicidio /Arrollamiento
+,Obras Civiles
+,Factores climaticos
+,Falta de energía EDESUR/EDENOR
+,Filtración de responsabilidad Empresa Aysa
+,Intento de suicidio /Arrollamiento
+,Adecuaciónhoraria
+,Otros
+,
+,Problema en Vías
+,
+,
+,
+,OBRA SBASE
+,OBRA SBASE
+,
+,Falta de operatividad
+,Adecuación horaria
+,
+,Principio de incendio en instalaciones
+,Vandalismo
+,Vandalismo
+,Ausencia de personal por premiso gremial
+,Coche - Falta de limpieza
+,Problema en Vías
+,Principio de incendio en instalaciones
+,
+,Precauciones en Vías
+,
+,Atropello de señal
+,Conflicto Gremial
+,Falta de energía EDESUR/EDENOR
+,Obras Civiles
+,Manifestantes/Piqueteros
+,Problemas Operativos
+,Animal suelto en instalaciones MV
+,Capacitación
+,Pasajero descompuesto en formacion
+,
+,Maniobras
+,Incidente con pasajeros
+,Viaje de prueba
+,Obras de Inversión
+,Cierre de estación por solicitud Policial
+,Por no extensión de jornada
+PP ,                                                  
+V  ,Obras de Inversión                               
+V  ,Vandalismo                                        
+V  ,Problema en Vías                                 
+V  ,Manifestantes/Piqueteros                          
+V  ,Coche - Falta de limpieza                         
+A  ,Falta de energía EDESUR/EDENOR                   
+V  ,Adecuación horaria                               
+V  ,                                                  
+V  ,Obras Civiles                                     
+V  ,Viaje de prueba                                   
+V  ,Precauciones en Vías                             
+V  ,Pasajero descompuesto en formacion                
+V  ,Otros                                             
+V  ,OBRA SBASE                                        
+FE ,                                                  
+V  ,Adecuaciónhoraria                                
+V  ,Responsabilidad empresa Alstom                    
+V  ,Principio de incendio en instalaciones            
+ATP,                                                  
+V  ,Animal suelto en instalaciones MV                 
+V  ,Procedimiento policial                            
+V  ,Incidente con pasajeros                           
+V  ,Falta de energía EDESUR/EDENOR                   
+FC ,Conflicto Gremial                                 
+A  ,Intento de suicidio /Arrollamiento                
+V  ,Atropello de señal                               
+CD ,                                                  
+A  ,Vandalismo                                        
+V  ,Factores climaticos                               
+V  ,Incendio en Material Rodante                      
+D  ,                                                  
+V  ,Cierre de estación por solicitud Policial        
+V  ,Maniobras                                         
+SC ,                                                  
+   ,                                                  
+A  ,                                                  
+FC ,                                                  
+V  ,Ausencia de personal por premiso gremial          
+A  ,Obras Civiles                                     
+V  ,Problemas Operativos                              
+PC ,                                                  
+V  ,Filtración de responsabilidad Empresa Aysa       
+V  ,Por no extensión de jornada                      
+V  ,Falta de operatividad                             
+VNC,                                                  
+V  ,Capacitación                                     
+H  ,                                                  
+A  ,OBRA SBASE                                        
+PG ,                                                  
+V  ,Conflicto Gremial                                 
+V  ,Intento de suicidio /Arrollamiento                
