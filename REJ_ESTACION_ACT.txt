@@ -1,0 +1,1 @@
+x,y,estacion,linea,ascensor,escalera,adaptado,accesible,cod_barrio,desc_barrio,id,SK_LINEA,ID_ESTACION,ErrorCode,ErrorColumn
