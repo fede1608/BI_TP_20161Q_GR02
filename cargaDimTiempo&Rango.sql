@@ -1,3 +1,6 @@
+USE [MIS_GRUPO_02]
+GO
+
 WITH mycte AS
   (SELECT cast('2008-01-01' AS datetime) DateValue
    UNION ALL SELECT DateValue + 1
